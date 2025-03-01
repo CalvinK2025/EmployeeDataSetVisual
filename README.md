@@ -1,4 +1,3 @@
-# EmployeeDataSetVisualization-v2
 
 # Tableau Visualizations
 ![i](https://github.com/CalvinK2025/EmployeeDataSetVisualization-v2/blob/main/tableau_gifs/employee_by_hobbies_tableau.gif)
