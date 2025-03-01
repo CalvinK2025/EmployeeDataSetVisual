@@ -42,5 +42,6 @@ Below are some of my Power BI visualizations:
 ***
 
 ![i](https://github.com/CalvinK2025/EmployeeDataSetVisualization-v2/blob/main/powerbi_gifs/reporting_structure_overview_powerbi.gif)
+
 *Reporting structure overview by hierarchy levels*
 ***
